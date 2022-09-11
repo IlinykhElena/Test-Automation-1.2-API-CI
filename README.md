@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/937e7msd8u385c4i/branch/main?svg=true)](https://ci.appveyor.com/project/IlinykhElena/test-automation-1-2-api-ci/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/937e7msd8u385c4i?svg=true)](https://ci.appveyor.com/project/IlinykhElena/test-automation-1-2-api-ci)
